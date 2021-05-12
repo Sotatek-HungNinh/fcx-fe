@@ -1,0 +1,21 @@
+nav {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background: lightblue;
+    height: 50px;
+}
+
+nav ul {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    list-style-type: none;
+    width: 50%;
+}
+
+nav ul a {
+    text-decoration: none;
+    font-weight: bold;
+    color: gray;
+}
