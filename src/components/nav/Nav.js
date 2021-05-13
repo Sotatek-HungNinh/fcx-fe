@@ -7,6 +7,9 @@ function Nav() {
                 <Link to="/home">
                     <li>Home</li>
                 </Link>
+                <Link to="/swap">
+                    <li>Order</li>
+                </Link>
                 <Link to="/list-transaction">
                     <li>Transaction</li>
                 </Link>
